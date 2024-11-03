@@ -1,4 +1,4 @@
-# Resume-for-freshers
++# Resume-for-freshers
 💡 Kicking off Your Career Journey? Let’s Build a Winning Resume Together! 💡
 
 We’ve all been there—the early days, the uncertainty, and the hunt for that perfect job or internship. As freshers or professionals with limited experience, making a strong first impression is key, and your resume is the door-opener! 🚪
@@ -10,6 +10,7 @@ Crafting a solid resume can feel daunting: What’s the right format? What secti
 Here are a few tried-and-true tips to boost your chances:
 
 Focus on Clarity: A simple, clean format is your best friend. Use clear sections, bullet points, and avoid overloading with graphics—ATS systems prefer it this way!
+You can chcek your ATS score from Resume worded which additionally also provide few tips that could help you achieve a score of 90+
 
 Key Sections to Include:
 
